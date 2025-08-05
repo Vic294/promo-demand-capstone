@@ -1,0 +1,10 @@
+pandas
+numpy
+statsmodels
+scikit-learn
+prophet~=1.2
+matplotlib
+seaborn
+streamlit
+langchain
+python-dotenv
